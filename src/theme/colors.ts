@@ -1,0 +1,29 @@
+const WHITE = '#FFFFFF';
+const GUNMETAL = '#2C3342';
+const CHINESE_BLACK = '#171717';
+const SONIC_SILVER = '#6C6E7F';
+const BLUE_GRAY = '#2F363B';
+const DARK_BLUE = '#1e222c';
+const GRAY_BORDER = '#262b35';
+const LOST = '#ec5062';
+const WIN = '#166e42';
+const LINE_FILL = 0xbb3f3f;
+const LINE_STROKE = 0x8b0000;
+const CANVAS = 0x202632;
+const CANVAS_STRING = '#202632';
+
+export {
+  CHINESE_BLACK,
+  GUNMETAL,
+  SONIC_SILVER,
+  WHITE,
+  BLUE_GRAY,
+  DARK_BLUE,
+  GRAY_BORDER,
+  LOST,
+  WIN,
+  LINE_FILL,
+  LINE_STROKE,
+  CANVAS,
+  CANVAS_STRING,
+};
